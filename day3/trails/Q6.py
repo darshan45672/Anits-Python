@@ -1,0 +1,1 @@
+# Given a list of numbers, for each element, find the next greater element to its right. If there is no greater element, return -1 for that element.
